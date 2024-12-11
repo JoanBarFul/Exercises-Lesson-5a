@@ -1,4 +1,4 @@
-## Exercises Lesson 5a Part 1
+## Exercises Lesson 5a
 
 El primer error que he corregido es que se llamaba al TextView pero no se habia referenciado con el id del layout.
 ![image](https://github.com/user-attachments/assets/d83cc007-a0ea-4a0e-a6c2-343e91d1a1d8)
